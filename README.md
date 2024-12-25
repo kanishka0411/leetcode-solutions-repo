@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0231-power-of-two) |
+## Array
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0162-find-peak-element) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
