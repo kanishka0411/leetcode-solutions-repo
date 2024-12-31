@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0162-find-peak-element) |
@@ -64,5 +65,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
