@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0118-pascals-triangle) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0349-intersection-of-two-arrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -92,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0048-rotate-image) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
