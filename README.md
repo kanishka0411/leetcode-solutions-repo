@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2050-count-good-numbers) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0048-rotate-image) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0119-pascals-triangle-ii) |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
