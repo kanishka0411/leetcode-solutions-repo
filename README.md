@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0229-majority-element-ii) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0074-search-a-2d-matrix) |
 ## String
 |  |
