@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0611-valid-triangle-number) |
 | [1524-string-matching-in-an-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1524-string-matching-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0611-valid-triangle-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0611-valid-triangle-number) |
 | [1646-kth-missing-positive-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1646-kth-missing-positive-number) |
 ## Hash Table
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0611-valid-triangle-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0611-valid-triangle-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0611-valid-triangle-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0611-valid-triangle-number) |
 ## Simulation
 |  |
 | ------- |
@@ -149,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1524-string-matching-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
