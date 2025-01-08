@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0128-longest-consecutive-sequence) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0349-intersection-of-two-arrays) |
