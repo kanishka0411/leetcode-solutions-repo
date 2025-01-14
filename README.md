@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0611-valid-triangle-number) |
+| [0792-binary-search](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0792-binary-search) |
 | [1524-string-matching-in-an-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1524-string-matching-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0611-valid-triangle-number) |
+| [0792-binary-search](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1646-kth-missing-positive-number) |
 ## Hash Table
 |  |
