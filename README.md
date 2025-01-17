@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2792-neighboring-bitwise-xor) |
 ## Recursion
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Search
 |  |
