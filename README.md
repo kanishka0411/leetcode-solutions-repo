@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1524-string-matching-in-an-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1524-string-matching-in-an-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1646-kth-missing-positive-number) |
 | [1876-map-of-highest-peak](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3427-special-array-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/3427-special-array-ii) |
