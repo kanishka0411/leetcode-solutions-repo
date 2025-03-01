@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0242-valid-anagram) |
+| [0916-decoded-string-at-index](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0916-decoded-string-at-index) |
 | [1502-construct-k-palindrome-strings](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0916-decoded-string-at-index](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0916-decoded-string-at-index) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Brainteaser
 |  |
