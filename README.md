@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0231-power-of-two) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2050-count-good-numbers) |
+| [2649-count-total-number-of-colored-cells](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2649-count-total-number-of-colored-cells) |
 ## Bit Manipulation
 |  |
 | ------- |
