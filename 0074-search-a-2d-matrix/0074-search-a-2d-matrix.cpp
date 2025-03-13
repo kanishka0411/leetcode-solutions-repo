@@ -15,15 +15,19 @@ public:
 
 
         //------------------------------Better----------------------------------------------
-        int i=0;
-        int j=m-1;
-        while(i<n && j>=0){
-            if(matrix[i][j]==target){
+        int low=0;
+        int high=n*m-1;
+        while(low<=high){
+            int mid=(low+high)/2;
+            int row=mid/m;
+            int col=mid%m;
+
+            if(matrix[row][col]==target){
                 return true;
-            }else if(matrix[i][j]<target){
-                i++;
+            }else if(matrix[row][col]<target){
+                low=mid+1;
             }else{
-                j--;
+                high=mid-1;
             }
         }
 
