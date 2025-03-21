@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0119-pascals-triangle-ii) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0242-valid-anagram) |
@@ -335,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2434-design-a-number-container-system) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
