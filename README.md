@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0231-power-of-two) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2509-minimize-xor) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0118-pascals-triangle) |
@@ -341,4 +343,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
