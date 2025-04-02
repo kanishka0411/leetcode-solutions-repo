@@ -66,7 +66,7 @@ public:
             return (double)(ind1el);
         }
 
-        return double((double)(ind1el+ ind2el))/2.0;
+        return (ind1el+ ind2el)/2.0;
         
 
         //-----------------------------------Optimal----------------------------------------------
