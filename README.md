@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0119-pascals-triangle-ii) |
+| [0131-palindrome-partitioning](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0416-partition-equal-subset-sum) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0242-valid-anagram) |
 | [0916-decoded-string-at-index](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0916-decoded-string-at-index) |
 | [1502-construct-k-palindrome-strings](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1502-construct-k-palindrome-strings) |
@@ -356,5 +358,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
