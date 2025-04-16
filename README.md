@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0090-subsets-ii) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1396-count-servers-that-communicate) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0242-valid-anagram) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0079-word-search) |
 | [1396-count-servers-that-communicate](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1558-course-schedule-iv) |
 ## Graph
@@ -357,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0216-combination-sum-iii) |
