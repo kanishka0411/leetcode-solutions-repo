@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0053-maximum-subarray) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0079-word-search) |
