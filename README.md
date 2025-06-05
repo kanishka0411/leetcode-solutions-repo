@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2050-count-good-numbers) |
 ## Array
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0002-add-two-numbers) |
 | [0148-sort-list](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0328-odd-even-linked-list) |
 ## Merge Sort
 |  |
