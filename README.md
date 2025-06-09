@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2050-count-good-numbers) |
 ## Array
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0611-valid-triangle-number) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0234-palindrome-linked-list) |
 | [0916-decoded-string-at-index](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0916-decoded-string-at-index) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Brainteaser
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
