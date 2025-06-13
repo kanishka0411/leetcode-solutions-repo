@@ -14,14 +14,15 @@ public:
         if(head==nullptr || head->next==nullptr) return head;
         ListNode *temp=head;
         while(temp!=nullptr && temp->next!=nullptr){
-            if(temp->val==temp->next->val){
-                ListNode *delNode =temp->next;
-                temp->next=temp->next->next;
-                delNode->next=nullptr;
+            ListNode *nextNode=temp->next;
+            while(nextNode!=nullptr && nextNode->val==temp->val){
+                ListNode *delNode=nextNode;
+                nextNode=nextNode->next;
                 delete(delNode);
-            }else{
-                temp=temp->next;
             }
+            temp->next=nextNode;
+            temp=temp->next;
+            
         }
         return head;
     }
