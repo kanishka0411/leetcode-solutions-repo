@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0069-sqrtx) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0137-single-number-ii) |
