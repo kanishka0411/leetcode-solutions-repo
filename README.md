@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1364-tuple-with-same-product](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1364-tuple-with-same-product) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0611-valid-triangle-number) |
+| [0890-lemonade-change](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0890-lemonade-change) |
 | [1502-construct-k-palindrome-strings](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1502-construct-k-palindrome-strings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
