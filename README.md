@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0268-missing-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2050-count-good-numbers) |
 | [2649-count-total-number-of-colored-cells](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2649-count-total-number-of-colored-cells) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0268-missing-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2509-minimize-xor](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2509-minimize-xor) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0407-trapping-rain-water-ii) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0410-split-array-largest-sum) |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0560-subarray-sum-equals-k) |
@@ -230,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0435-non-overlapping-intervals) |
