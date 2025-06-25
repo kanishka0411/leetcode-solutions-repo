@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0907-koko-eating-bananas) |
+| [0940-fruit-into-baskets](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1364-tuple-with-same-product](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1364-tuple-with-same-product) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0560-subarray-sum-equals-k) |
+| [0940-fruit-into-baskets](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0940-fruit-into-baskets) |
 | [1364-tuple-with-same-product](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1966-frequency-of-the-most-frequent-element) |
