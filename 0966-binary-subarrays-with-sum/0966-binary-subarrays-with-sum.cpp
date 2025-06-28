@@ -8,9 +8,9 @@ public:
         int r=0;
         int l=0;
         while(r<n){
-            sum+=(nums[r]%2);
+            sum+=nums[r];
             while(sum>goal){
-                sum-=(nums[l]%2);
+                sum-=nums[l];
                 l++;
             }
             count+=r-l+1;
