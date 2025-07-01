@@ -13,7 +13,7 @@ public:
         st.push({val,mini}); 
         
     }
-    
+    //voh previous min se compare krega
     void pop() {
         st.pop();
     }
