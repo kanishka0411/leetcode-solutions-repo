@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0268-missing-number) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0239-sliding-window-maximum) |
 | [0407-trapping-rain-water-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0407-trapping-rain-water-ii) |
 | [2434-design-a-number-container-system](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2434-design-a-number-container-system) |
 ## Depth-First Search
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0966-binary-subarrays-with-sum) |
@@ -519,4 +522,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2227-sum-of-subarray-ranges) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
