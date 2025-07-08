@@ -1,21 +1,21 @@
 class Solution {
 public:
-    void func(int open,int close,int n,string s,vector<string>&ans){
+    void generate(int n,vector<string>&ans,string s,int open,int close){
         if(open==close && (open+close)==2*n){
             ans.push_back(s);
             return;
         }
-
         if(open<n){
-            func(open+1,close,n,s+'(',ans);
+            generate(n,ans,s+'(',open+1,close);
         }
-        if(close<open){
-            func(open,close+1,n,s+')',ans);
+        if(open>close){
+            generate(n,ans,s+')',open,close+1);
         }
     }
     vector<string> generateParenthesis(int n) {
         vector<string>ans;
-        func(0,0,n,"",ans);
+        string s;
+        generate(n,ans,s,0,0);
         return ans;
     }
 };
