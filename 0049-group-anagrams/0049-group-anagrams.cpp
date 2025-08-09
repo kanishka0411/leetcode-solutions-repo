@@ -1,16 +1,35 @@
 class Solution {
 public:
+
+    string generate(string &word){
+        int arr[26]={0};
+        for(char &ch:word){
+            arr[ch-'a']++;
+        }
+        string new_word="";
+        for(int i=0;i<26;i++){
+            int freq=arr[i];
+            if(freq>0){
+                new_word+=string(freq,i+'a');
+                
+            }
+        }
+        return new_word;
+        
+    }
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
-        unordered_map<string,vector<string>>res;
-        for(auto &s:strs){
-            string sor=s;
-            sort(sor.begin(),sor.end());
-            res[sor].push_back(s);
+        int n=strs.size();
+        unordered_map<string,vector<string>>mpp;;
+        vector<vector<string>>result;
+        for(int i=0;i<n;i++){
+            string word=strs[i];
+            string new_Word=generate(word);
+            mpp[new_Word].push_back(word);
         }
-        vector<vector<string>>ans;
-        for(auto &pair:res){
-            ans.push_back(pair.second);
+
+        for(auto &it:mpp){
+            result.push_back(it.second);
         }
-        return ans;
+        return result;
     }
 };
