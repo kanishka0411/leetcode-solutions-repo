@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0503-next-greater-element-ii) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0792-binary-search) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0493-reverse-pairs) |
 | [2434-design-a-number-container-system](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2434-design-a-number-container-system) |
 ## Backtracking
 |  |
@@ -546,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0493-reverse-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -592,4 +597,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
