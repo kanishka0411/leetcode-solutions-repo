@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1524-string-matching-in-an-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0611-valid-triangle-number) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1675-magnetic-force-between-two-balls) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3321-type-of-triangle](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/3321-type-of-triangle) |
@@ -605,4 +608,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0493-reverse-pairs) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
