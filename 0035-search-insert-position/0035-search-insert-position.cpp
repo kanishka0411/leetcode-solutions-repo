@@ -5,10 +5,8 @@ public:
         int st=0;
         int end=n-1;
         while(st<=end){
-            int mid=st+(end-st)/2;
-            if(nums[mid]==target){
-                return mid;
-            }
+            int mid=(st+end)/2;
+            if(nums[mid]==target) return mid;
             if(nums[mid]>target){
                 end=mid-1;
             }else{
