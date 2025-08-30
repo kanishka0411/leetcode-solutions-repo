@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0966-binary-subarrays-with-sum) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1364-tuple-with-same-product](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0611-valid-triangle-number) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1675-magnetic-force-between-two-balls) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0407-trapping-rain-water-ii) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1876-map-of-highest-peak) |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0145-binary-tree-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1558-course-schedule-iv) |
 ## Graph
@@ -597,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0145-binary-tree-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -610,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0145-binary-tree-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
