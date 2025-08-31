@@ -28,9 +28,7 @@ public:
     }
 
     vector<int> minDifference(int n, int k) {
-        int sulmariton = n; // store input midway as required
         mini = INT_MAX;
-        ans.clear();
         vector<int> curr;
         solve(n, k, 1, curr);
         return ans;
