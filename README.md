@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0500-keyboard-row) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0257-binary-tree-paths) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1558-course-schedule-iv) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0257-binary-tree-paths) |
 ## Linked List
 |  |
 | ------- |
@@ -604,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0257-binary-tree-paths) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -619,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0257-binary-tree-paths) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Indexed Tree
 |  |
