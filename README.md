@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2737-row-with-maximum-ones](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2737-row-with-maximum-ones) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2792-neighboring-bitwise-xor) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/3321-type-of-triangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Two Pointers
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Prefix Sum
 |  |
