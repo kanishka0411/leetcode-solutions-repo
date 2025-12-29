@@ -11,15 +11,15 @@
  */
 class Solution {
 public:
-    void recursive(TreeNode *root,vector<int>&ans){
+    void rec(TreeNode*root,vector<int>&arr){
         if(root==nullptr) return;
-        recursive(root->left,ans);
-        recursive(root->right,ans);
-        ans.push_back(root->val);
+        rec(root->left,arr);
+        rec(root->right,arr);
+        arr.push_back(root->val);
     }
     vector<int> postorderTraversal(TreeNode* root) {
-        vector<int>ans;
-        recursive(root,ans);
-        return ans;
+        vector<int>arr;
+        rec(root,arr);
+        return arr;
     }
 };
