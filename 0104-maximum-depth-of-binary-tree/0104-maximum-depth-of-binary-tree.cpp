@@ -12,32 +12,9 @@
 class Solution {
 public:
     int maxDepth(TreeNode* root) {
-        //------------------------------Recursive---------------------------------------
-        // if(root==nullptr) return 0;
-        // int left=maxDepth(root->left);
-        // int right=maxDepth(root->right);
-
-        // return 1+max(left,right);
-
-        //--------------------------------Level Order------------------------------------
         if(root==nullptr) return 0;
-        queue<TreeNode*>q;
-        int level=0;
-        q.push(root);
-        while(!q.empty()){
-            int size=q.size();
-            for(int i=0;i<size;i++){
-                TreeNode *node=q.front();
-                q.pop();
-                if(node->left!=nullptr){
-                    q.push(node->left);
-                }
-                if(node->right!=nullptr){
-                    q.push(node->right);
-                }
-            }
-            level++;
-        }
-        return level;
+        int lh=maxDepth(root->left);
+        int rh=maxDepth(root->right);
+        return 1+max(lh,rh);
     }
 };
