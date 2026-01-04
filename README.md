@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0268-missing-number) |
 | [0556-next-greater-element-iii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0556-next-greater-element-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1370-count-number-of-nice-subarrays) |
+| [1390-four-divisors](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1390-four-divisors) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2050-count-good-numbers) |
 | [2649-count-total-number-of-colored-cells](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2649-count-total-number-of-colored-cells) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1364-tuple-with-same-product](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1370-count-number-of-nice-subarrays) |
+| [1390-four-divisors](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
