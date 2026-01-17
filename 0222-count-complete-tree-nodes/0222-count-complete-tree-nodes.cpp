@@ -11,16 +11,29 @@
  */
 class Solution {
 public:
-    void dfs(TreeNode *root,int &count){
-        if(root==nullptr) return;
-        count++;
-        dfs(root->left,count);
-        dfs(root->right,count);
+    int leftheight(TreeNode *root){
+        int height=0;
+        while(root){
+            height++;
+            root=root->left;
+        }
+        return height;
+    }
+
+      int rightheight(TreeNode *root){
+        int height=0;
+        while(root){
+            height++;
+            root=root->right;
+        }
+        return height;
     }
     int countNodes(TreeNode* root) {
         if(root==nullptr) return 0;
-        int count=0;
-        dfs(root,count);
-        return count;
+        int lh=leftheight(root);
+        int rh=rightheight(root);
+
+        if(lh==rh) return (1<<lh)-1;
+        return 1+countNodes(root->left)+countNodes(root->right);
     }
 };
