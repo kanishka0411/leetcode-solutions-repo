@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2434-design-a-number-container-system](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2434-design-a-number-container-system) |
 | [2685-first-completely-painted-row-or-column](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1876-map-of-highest-peak) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1558-course-schedule-iv) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Graph
 |  |
 | ------- |
@@ -645,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -667,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Indexed Tree
 |  |
 | ------- |
