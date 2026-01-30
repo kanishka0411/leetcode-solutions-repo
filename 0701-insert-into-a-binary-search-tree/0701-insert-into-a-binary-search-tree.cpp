@@ -15,19 +15,19 @@ public:
         if(!root) return new TreeNode(val);
         TreeNode *curr=root;
         while(true){
-            if(curr->val>=val){
+            if(curr->val<val){
+                if(curr->right==nullptr){
+                    curr->right=new TreeNode (val);
+                    break;
+                }else{
+                    curr=curr->right;
+                }
+            }else{
                 if(curr->left==nullptr){
                     curr->left=new TreeNode(val);
                     break;
                 }else{
                     curr=curr->left;
-                }
-            }else{
-                if(curr->right==nullptr){
-                    curr->right=new TreeNode(val);
-                    break;
-                }else{
-                    curr=curr->right;
                 }
             }
         }
