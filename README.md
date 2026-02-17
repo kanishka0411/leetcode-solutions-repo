@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0268-missing-number) |
 | [0556-next-greater-element-iii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0556-next-greater-element-iii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0239-sliding-window-maximum) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0350-intersection-of-two-arrays-ii) |
