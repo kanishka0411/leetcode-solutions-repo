@@ -1,15 +1,16 @@
 class Solution {
 public:
     double myPow(double x, int n) {
-        if(n<0){
+        long long temp=n;
+        if(temp<0){
             x=1/x;
-            n=-n;
+            temp=-temp;
         }
-        if(n==0) return 1;
-        if(n%2==1){
-            return x*myPow(x*x,(n-1)/2);
+        if(temp==0) return 1;
+        if(temp%2==1){
+            return x*myPow(x*x,(temp-1)/2);
         }else{
-            return myPow(x*x,n/2);
+            return myPow(x*x,temp/2);
         }
     }
 };
