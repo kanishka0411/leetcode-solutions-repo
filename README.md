@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0611-valid-triangle-number) |
 | [0735-asteroid-collision](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0792-binary-search) |
 | [0878-shifting-letters](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0878-shifting-letters) |
 | [0890-lemonade-change](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0890-lemonade-change) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0739-daily-temperatures) |
 | [0916-decoded-string-at-index](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0916-decoded-string-at-index) |
 | [0943-sum-of-subarray-minimums](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0943-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2227-sum-of-subarray-ranges](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2227-sum-of-subarray-ranges) |
