@@ -15,7 +15,6 @@ public:
         if(!root) return 0;
         int lh=dfs(root->left,maxi);
         int rh=dfs(root->right,maxi);
-
         maxi=max(maxi,lh+rh);
         return 1+max(lh,rh);
     }
