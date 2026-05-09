@@ -11,15 +11,14 @@
  */
 class Solution {
 public:
-    int dfs(TreeNode* root){
-        if(root==nullptr) return 0;
+    int dfs(TreeNode *root){
+        if(!root) return 0;
         int lh=dfs(root->left);
         if(lh==-1) return -1;
         int rh=dfs(root->right);
         if(rh==-1) return -1;
-
-        if(abs(rh-lh)>1) return -1;
-        return max(lh,rh)+1;
+        if(abs(lh-rh)>1) return -1;
+        return 1+max(lh,rh);
     }
     bool isBalanced(TreeNode* root) {
         return dfs(root)!=-1;
