@@ -12,7 +12,7 @@
 class Solution {
 public:
     int dfs(TreeNode *root,int &maxi){
-        if(root==nullptr) return 0;
+        if(!root) return 0;
         int lh=dfs(root->left,maxi);
         int rh=dfs(root->right,maxi);
 
