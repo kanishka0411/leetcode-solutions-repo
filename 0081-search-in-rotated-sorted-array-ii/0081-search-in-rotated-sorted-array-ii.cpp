@@ -5,25 +5,18 @@ public:
         int st=0;
         int end=n-1;
         while(st<=end){
-            int mid=st+(end-st)/2;
-            if(nums[mid]==target){
-                return true;
-            }
-            while(st<mid && nums[st]==nums[mid]){
-                st++;
-            }
-            while(end>mid && nums[mid]==nums[end]){
-                end--;
-            }
-
+            int mid=(st+end)/2;
+            while(nums[mid]==nums[st] && st<mid) st++;
+            while(nums[mid]==nums[end] && end>mid) end--;
+            if(nums[mid]==target) return true;
             if(nums[st]<=nums[mid]){
-                if(nums[st]<=target && target<nums[mid]){
+                if(target>=nums[st] && target<=nums[mid]){
                     end=mid-1;
                 }else{
                     st=mid+1;
                 }
             }else{
-                if(nums[mid]<target && target<=nums[end]){
+                if(target>nums[mid] && target<=nums[end]){
                     st=mid+1;
                 }else{
                     end=mid-1;
@@ -31,5 +24,6 @@ public:
             }
         }
         return false;
+
     }
 };
