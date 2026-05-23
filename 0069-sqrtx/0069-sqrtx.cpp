@@ -1,17 +1,16 @@
 class Solution {
 public:
     int mySqrt(int x) {
-        int st=1;
-        int end=x;
-        while(st<=end){
-            long long mid=st+(end-st)/2;
-            long long val=mid*mid;
+        if(x==0) return 0;
+        int ans=-1;
+        for(int i=1;i<=x;i++){
+            long long val= 1LL *i*i;
             if(val<=x){
-                st=mid+1;
+                ans=i;
             }else{
-                end=mid-1;
+                break;
             }
         }
-        return end;
+        return ans;
     }
 };
