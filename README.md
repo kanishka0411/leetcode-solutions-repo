@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0875-koko-eating-bananas) |
 | [0878-shifting-letters](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0878-shifting-letters) |
 | [0890-lemonade-change](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0890-lemonade-change) |
+| [0904-fruit-into-baskets](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0943-sum-of-subarray-minimums) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0904-fruit-into-baskets](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0966-binary-subarrays-with-sum) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0424-longest-repeating-character-replacement) |
+| [0904-fruit-into-baskets](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1004-max-consecutive-ones-iii) |
