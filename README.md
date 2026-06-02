@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1364-tuple-with-same-product](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0878-shifting-letters) |
 | [0916-decoded-string-at-index](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0916-decoded-string-at-index) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1524-string-matching-in-an-array) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1046-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1460-number-of-substrings-containing-all-three-characters) |
