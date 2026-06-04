@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2551-apply-operations-to-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2685-first-completely-painted-row-or-column) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1675-magnetic-force-between-two-balls) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2047-find-a-peak-element-ii) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3427-special-array-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/3427-special-array-ii) |
 ## Hash Table
 |  |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2145-grid-game) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3427-special-array-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/3427-special-array-ii) |
 ## String Matching
 |  |
@@ -621,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Design
 |  |
 | ------- |
