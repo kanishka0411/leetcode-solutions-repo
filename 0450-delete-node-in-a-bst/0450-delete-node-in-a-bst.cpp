@@ -11,41 +11,37 @@
  */
 class Solution {
 public:
-
     TreeNode *find(TreeNode *root){
-        if(root->right==nullptr){
-            return root;
+        while(root->right!=nullptr){
+            root=root->right;
         }
-        return find(root->right);
+        return root;
     }
     TreeNode *helper(TreeNode *root){
-       
         if(root->left==nullptr){
             return root->right;
         }
         if(root->right==nullptr){
             return root->left;
         }
-        TreeNode *rightChild=root->right;
+        TreeNode *righ=root->right;
         TreeNode *lastright=find(root->left);
-        lastright->right=rightChild;
+        lastright->right=righ;
         return root->left;
-
     }
     TreeNode* deleteNode(TreeNode* root, int key) {
-       if(!root) return NULL;
-       TreeNode *curr=root;
-       if(root->val==key) return helper(root);
-       while(root!=nullptr){
-        if(root->val>key){
-            if(root->left!=nullptr && root->left->val==key){
-                root->left=helper(root->left);
-                break;
+        if(!root) return nullptr;
+        if(root->val==key) return helper(root);
+        TreeNode *dummy=root;
+        while(root!=nullptr){
+            if(root->val>key){
+                if(root->left!=nullptr && root->left->val==key){
+                   root->left=helper(root->left);
+                   break;
+                }else{
+                   root=root->left;
+                }
             }else{
-                root=root->left;
-            }
-        }else{
-            if(root->val<key){
                 if(root->right!=nullptr && root->right->val==key){
                     root->right=helper(root->right);
                     break;
@@ -54,8 +50,6 @@ public:
                 }
             }
         }
-       }
-       return curr;
-
+        return dummy;
     }
 };
