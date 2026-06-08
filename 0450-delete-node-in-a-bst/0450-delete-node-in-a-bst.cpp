@@ -18,15 +18,11 @@ public:
         return root;
     }
     TreeNode *helper(TreeNode *root){
-        if(root->left==nullptr){
-            return root->right;
-        }
-        if(root->right==nullptr){
-            return root->left;
-        }
-        TreeNode *righ=root->right;
+        if(root->left==nullptr) return root->right;
+        if(root->right==nullptr) return root->left;
+        TreeNode *rightmost=root->right;
         TreeNode *lastright=find(root->left);
-        lastright->right=righ;
+        lastright->right=rightmost;
         return root->left;
     }
     TreeNode* deleteNode(TreeNode* root, int key) {
@@ -36,15 +32,13 @@ public:
         while(root!=nullptr){
             if(root->val>key){
                 if(root->left!=nullptr && root->left->val==key){
-                   root->left=helper(root->left);
-                   break;
+                    root->left=helper(root->left);
                 }else{
-                   root=root->left;
+                    root=root->left;
                 }
             }else{
                 if(root->right!=nullptr && root->right->val==key){
                     root->right=helper(root->right);
-                    break;
                 }else{
                     root=root->right;
                 }
