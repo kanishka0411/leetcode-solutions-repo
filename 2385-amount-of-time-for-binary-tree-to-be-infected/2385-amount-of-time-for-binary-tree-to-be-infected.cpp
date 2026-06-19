@@ -11,63 +11,57 @@
  */
 class Solution {
 public:
-    void markParent(TreeNode *root,unordered_map<TreeNode *,TreeNode *>&parent,TreeNode *&target,int start){
+    void markpar(TreeNode *root,unordered_map<TreeNode*,TreeNode*>&mpp,int start,TreeNode *&target){
         queue<TreeNode*>q;
         q.push(root);
         while(!q.empty()){
-            TreeNode *curr=q.front();
+            TreeNode *node=q.front();
             q.pop();
-            if(curr->val==start){
-                target=curr;
+            if(node->val==start) target=node;
+            if(node->left){
+                mpp[node->left]=node;
+                q.push(node->left);
             }
-            if(curr->left){
-                q.push(curr->left);
-                parent[curr->left]=curr;
-            }
-
-            if(curr->right){
-                q.push(curr->right);
-                parent[curr->right]=curr;
+            if(node->right){
+                mpp[node->right]=node;
+                q.push(node->right);
             }
         }
     }
     int amountOfTime(TreeNode* root, int start) {
-        unordered_map<TreeNode *,TreeNode*>parent;
+        unordered_map<TreeNode*,TreeNode*>mpp;
         TreeNode *target=nullptr;
-        markParent(root,parent,target,start);
-
+        markpar(root,mpp,start,target);
         unordered_map<TreeNode*,bool>vis;
-        int time=0;
+        vis[target]=true;
         queue<TreeNode*>q;
         q.push(target);
-        vis[target]=true;
+        int time=0;
         while(!q.empty()){
-            int size=q.size();
             bool burned=false;
+            int size=q.size();
             for(int i=0;i<size;i++){
-                TreeNode *curr=q.front();
+                TreeNode *node=q.front();
                 q.pop();
-                if(curr->left && !vis[curr->left]){
-                    vis[curr->left]=true;
+                if(node->left && !vis[node->left]){
                     burned=true;
-                    q.push(curr->left);
+                    q.push(node->left);
+                    vis[node->left]=true;
                 }
-
-                if(curr->right && !vis[curr->right]){
+                if(node->right && !vis[node->right]){
                     burned=true;
-                    vis[curr->right]=true;
-                    q.push(curr->right);
+                    q.push(node->right);
+                    vis[node->right]=true;
                 }
-
-                if(parent[curr] && !vis[parent[curr]]){
+                if(mpp[node] && !vis[mpp[node]]){
                     burned=true;
-                    vis[parent[curr]]=true;
-                    q.push(parent[curr]);
+                    q.push(mpp[node]);
+                    vis[mpp[node]]=true;
                 }
-
             }
             if(burned) time++;
         }
         return time;
+
     }
 };
