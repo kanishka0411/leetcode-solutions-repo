@@ -9,29 +9,28 @@
  */
 class Solution {
 public:
-    void markParent(TreeNode *root,unordered_map<TreeNode*,TreeNode*>&parent){
+    void markPar(TreeNode *root,unordered_map<TreeNode*,TreeNode*>&par){
         queue<TreeNode*>q;
         q.push(root);
         while(!q.empty()){
-            TreeNode* curr=q.front();
+            TreeNode *node=q.front();
             q.pop();
-            if(curr->left){
-                parent[curr->left]=curr;
-                q.push(curr->left);
+            if(node->left){
+                par[node->left]=node;
+                q.push(node->left);
             }
-
-            if(curr->right){
-                parent[curr->right]=curr;
-                q.push(curr->right);
+            if(node->right){
+                par[node->right]=node;
+                q.push(node->right);
             }
         }
     }
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-        unordered_map<TreeNode* ,TreeNode*>parent;
-        markParent(root,parent);
-        unordered_map<TreeNode*,bool>vis;
+        unordered_map<TreeNode *,TreeNode*>par;
+        markPar(root,par);
         queue<TreeNode*>q;
         q.push(target);
+        unordered_map<TreeNode*,bool>vis;
         vis[target]=true;
         int currlevel=0;
         while(!q.empty()){
@@ -49,20 +48,19 @@ public:
                     q.push(curr->right);
                     vis[curr->right]=true;
                 }
-
-                if(parent[curr] && !vis[parent[curr]]){
-                    q.push(parent[curr]);
-                    vis[parent[curr]]=true;
+                if(par[curr] && !vis[par[curr]]){
+                    q.push(par[curr]);
+                    vis[par[curr]]=true;
                 }
             }
-        }
 
-        vector<int>result;
+        }
+        vector<int>res;
         while(!q.empty()){
             TreeNode *curr=q.front();
             q.pop();
-            result.push_back(curr->val);
+            res.push_back(curr->val);
         }
-        return result;
+        return res;
     }
 };
