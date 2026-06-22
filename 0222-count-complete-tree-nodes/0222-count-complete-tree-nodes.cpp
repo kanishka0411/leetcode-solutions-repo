@@ -11,15 +11,7 @@
  */
 class Solution {
 public:
-    int findright(TreeNode *root){
-        int height=0;
-        while(root){
-            height++;
-            root=root->right;
-        }
-        return height;
-    }
-    int findleft(TreeNode *root){
+    int findLeft(TreeNode *root){
         int height=0;
         while(root){
             height++;
@@ -27,12 +19,21 @@ public:
         }
         return height;
     }
+
+    int findRight(TreeNode *root){
+        int height=0;
+        while(root){
+            height++;
+            root=root->right;
+        }
+        return height;
+    }
     int countNodes(TreeNode* root) {
         if(!root) return 0;
-        int lh=findleft(root);
-        int rh=findright(root);
-        if(lh==rh) return (1<<lh)-1;
+        int lh=findLeft(root);
+        int rh=findRight(root);
 
+        if(lh==rh) return (1<<lh)-1;
         return 1+countNodes(root->left)+countNodes(root->right);
     }
 };
