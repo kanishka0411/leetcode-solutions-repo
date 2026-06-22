@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    void markpar(TreeNode *root,unordered_map<TreeNode*,TreeNode*>&mpp,int start,TreeNode *&target){
+    void markpar(TreeNode *root,unordered_map<TreeNode*,TreeNode*>&par,TreeNode* &target,int start){
         queue<TreeNode*>q;
         q.push(root);
         while(!q.empty()){
@@ -19,49 +19,48 @@ public:
             q.pop();
             if(node->val==start) target=node;
             if(node->left){
-                mpp[node->left]=node;
+                par[node->left]=node;
                 q.push(node->left);
             }
             if(node->right){
-                mpp[node->right]=node;
+                par[node->right]=node;
                 q.push(node->right);
             }
         }
     }
     int amountOfTime(TreeNode* root, int start) {
-        unordered_map<TreeNode*,TreeNode*>mpp;
         TreeNode *target=nullptr;
-        markpar(root,mpp,start,target);
+        unordered_map<TreeNode*,TreeNode*>par;
+        markpar(root,par,target,start);
+        int time=0;
         unordered_map<TreeNode*,bool>vis;
-        vis[target]=true;
         queue<TreeNode*>q;
         q.push(target);
-        int time=0;
+        vis[target]=true;
         while(!q.empty()){
-            bool burned=false;
             int size=q.size();
+            bool burned=false;
             for(int i=0;i<size;i++){
-                TreeNode *node=q.front();
+                TreeNode *curr=q.front();
                 q.pop();
-                if(node->left && !vis[node->left]){
+                if(curr->left && !vis[curr->left]){
                     burned=true;
-                    q.push(node->left);
-                    vis[node->left]=true;
+                    q.push(curr->left);
+                    vis[curr->left]=true;
                 }
-                if(node->right && !vis[node->right]){
+                if(curr->right && !vis[curr->right]){
                     burned=true;
-                    q.push(node->right);
-                    vis[node->right]=true;
+                    q.push(curr->right);
+                    vis[curr->right]=true;
                 }
-                if(mpp[node] && !vis[mpp[node]]){
+                if(par[curr] &&!vis[par[curr]]){
                     burned=true;
-                    q.push(mpp[node]);
-                    vis[mpp[node]]=true;
+                    q.push(par[curr]);
+                    vis[par[curr]]=true;
                 }
             }
             if(burned) time++;
         }
         return time;
-
     }
 };
