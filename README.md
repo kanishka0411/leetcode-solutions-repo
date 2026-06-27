@@ -826,4 +826,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0204-count-primes) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
