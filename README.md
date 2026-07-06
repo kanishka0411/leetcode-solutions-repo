@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1020-number-of-enclaves) |
 | [1046-max-consecutive-ones-iii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1248-count-number-of-nice-subarrays) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1020-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1876-map-of-highest-peak) |
 | [1975-maximum-matrix-sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1975-maximum-matrix-sum) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1396-count-servers-that-communicate) |
@@ -606,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -871,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
