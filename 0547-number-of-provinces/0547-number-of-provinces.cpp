@@ -7,12 +7,12 @@ public:
         while(!q.empty()){
             int node=q.front();
             q.pop();
-
             for(auto it:adj[node]){
                 if(!vis[it]){
                     vis[it]=1;
                     q.push(it);
                 }
+
             }
         }
     }
@@ -21,7 +21,7 @@ public:
         vector<int>adj[v];
         for(int i=0;i<v;i++){
             for(int j=0;j<v;j++){
-                if(isConnected[i][j]==1 && i!=j){
+                if(i!=j && isConnected[i][j]==1){
                     adj[i].push_back(j);
                 }
             }
