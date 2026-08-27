@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0057-insert-interval) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0735-asteroid-collision) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0079-word-search) |
