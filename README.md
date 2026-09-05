@@ -905,4 +905,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0547-number-of-provinces) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
