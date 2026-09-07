@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0943-sum-of-subarray-minimums) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0966-binary-subarrays-with-sum) |
+| [0986-interval-list-intersections](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0908-middle-of-the-linked-list) |
+| [0986-interval-list-intersections](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0986-interval-list-intersections) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -909,4 +911,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0056-merge-intervals) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
