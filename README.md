@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0268-missing-number) |
 | [0556-next-greater-element-iii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0556-next-greater-element-iii) |
+| [1041-robot-bounded-in-circle](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1041-robot-bounded-in-circle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1248-count-number-of-nice-subarrays) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1390-four-divisors) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0735-asteroid-collision) |
+| [1041-robot-bounded-in-circle](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1041-robot-bounded-in-circle) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2551-apply-operations-to-an-array) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0878-shifting-letters) |
 | [0916-decoded-string-at-index](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0916-decoded-string-at-index) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1041-robot-bounded-in-circle](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1041-robot-bounded-in-circle) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1502-construct-k-palindrome-strings) |
