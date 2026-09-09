@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1109-corporate-flight-bookings](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1248-count-number-of-nice-subarrays) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1364-tuple-with-same-product](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1370-count-number-of-nice-subarrays) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1248-count-number-of-nice-subarrays) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1364-tuple-with-same-product](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1370-count-number-of-nice-subarrays) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0735-asteroid-collision) |
 | [1041-robot-bounded-in-circle](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1041-robot-bounded-in-circle) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2551-apply-operations-to-an-array) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1020-number-of-enclaves) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1396-count-servers-that-communicate](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1876-map-of-highest-peak) |
 | [1975-maximum-matrix-sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1975-maximum-matrix-sum) |
