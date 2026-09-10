@@ -923,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1020-number-of-enclaves) |
