@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0943-sum-of-subarray-minimums) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0966-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0994-rotting-oranges) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0966-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1248-count-number-of-nice-subarrays) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0878-shifting-letters) |
 | [0930-binary-subarrays-with-sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0966-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1046-max-consecutive-ones-iii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1074-number-of-submatrices-that-sum-to-target) |
