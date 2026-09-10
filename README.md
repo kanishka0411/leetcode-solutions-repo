@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0260-single-number-iii) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0724-find-pivot-index) |
