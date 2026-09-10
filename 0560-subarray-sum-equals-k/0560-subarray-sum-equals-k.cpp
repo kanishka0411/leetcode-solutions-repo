@@ -8,7 +8,7 @@ public:
         int psum=0;
         for(int i=0;i<n;i++){
             psum+=nums[i];
-            cnt+= mpp[psum-k]++;
+            cnt+= mpp[psum-k];
             mpp[psum]++;
         }
         return cnt;
