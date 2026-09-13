@@ -478,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1041-robot-bounded-in-circle](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1041-robot-bounded-in-circle) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1524-string-matching-in-an-array) |
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1966-frequency-of-the-most-frequent-element) |
