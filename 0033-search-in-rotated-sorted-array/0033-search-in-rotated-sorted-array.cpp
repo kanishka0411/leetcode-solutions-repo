@@ -8,13 +8,13 @@ public:
             int mid=(st+end)/2;
             if(nums[mid]==target) return mid;
             if(nums[st]<=nums[mid]){
-                if(target>=nums[st] && target<nums[mid]){
+                if(nums[st]<=target && nums[mid]>target){
                     end=mid-1;
                 }else{
                     st=mid+1;
                 }
             }else{
-                if(target>nums[mid] && target<=nums[end]){
+                if(nums[mid]<target && nums[end]>=target){
                     st=mid+1;
                 }else{
                     end=mid-1;
@@ -22,5 +22,6 @@ public:
             }
         }
         return -1;
+        
     }
 };
