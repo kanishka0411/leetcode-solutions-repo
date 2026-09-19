@@ -4,14 +4,16 @@ public:
         int n=nums.size();
         int st=0;
         int end=n-1;
-        while(st<end){
+        int ans=INT_MAX;
+        while(st<=end){
             int mid=(st+end)/2;
             if(nums[mid]>nums[end]){
                 st=mid+1;
             }else{
-                end=mid;
+                ans=min(ans,nums[mid]);
+                end=mid-1;
             }
         }
-        return nums[st];
+        return ans;
     }
 };
