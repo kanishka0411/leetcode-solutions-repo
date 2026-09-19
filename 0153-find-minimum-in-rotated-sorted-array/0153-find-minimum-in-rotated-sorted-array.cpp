@@ -4,12 +4,12 @@ public:
         int n=nums.size();
         int st=0;
         int end=n-1;
-        while(st<=end){
+        while(st<end){
             int mid=(st+end)/2;
             if(nums[mid]>nums[end]){
                 st=mid+1;
             }else{
-                end=mid-1;
+                end=mid;
             }
         }
         return nums[st];
