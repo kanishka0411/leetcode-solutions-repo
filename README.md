@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1675-magnetic-force-between-two-balls) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1854-maximum-population-year](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1854-maximum-population-year) |
 | [1876-map-of-highest-peak](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1502-construct-k-palindrome-strings) |
+| [1854-maximum-population-year](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1854-maximum-population-year) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1480-running-sum-of-1d-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1854-maximum-population-year](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1854-maximum-population-year) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2059-unique-length-3-palindromic-subsequences) |
