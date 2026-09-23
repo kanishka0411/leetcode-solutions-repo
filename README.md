@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1675-magnetic-force-between-two-balls) |
+| [1706-where-will-the-ball-fall](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1706-where-will-the-ball-fall) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1854-maximum-population-year](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1854-maximum-population-year) |
 | [1876-map-of-highest-peak](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1876-map-of-highest-peak) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0874-walking-robot-simulation) |
 | [1041-robot-bounded-in-circle](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1041-robot-bounded-in-circle) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1706-where-will-the-ball-fall](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1706-where-will-the-ball-fall) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2551-apply-operations-to-an-array) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1396-count-servers-that-communicate](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1396-count-servers-that-communicate) |
+| [1706-where-will-the-ball-fall](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1706-where-will-the-ball-fall) |
 | [1876-map-of-highest-peak](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1876-map-of-highest-peak) |
 | [1975-maximum-matrix-sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1975-maximum-matrix-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2047-find-a-peak-element-ii) |
