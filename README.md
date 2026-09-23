@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2381-shifting-letters-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2381-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2551-apply-operations-to-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2685-first-completely-painted-row-or-column) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2381-shifting-letters-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2381-shifting-letters-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3617-find-the-original-typed-string-i](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/3617-find-the-original-typed-string-i) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2145-grid-game) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2381-shifting-letters-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2381-shifting-letters-ii) |
 | [3427-special-array-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/3427-special-array-ii) |
 ## String Matching
 |  |
