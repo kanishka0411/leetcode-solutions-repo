@@ -12,7 +12,7 @@ public:
                     col=-1;
                     break;
                 }
-                if(grid[row][next]!=grid[row][col]){
+                if(grid[row][col]!=grid[row][next]){
                     col=-1;
                     break;
                 }
@@ -21,5 +21,6 @@ public:
             ans[ball]=col;
         }
         return ans;
+        
     }
 };
