@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int atmost(vector<int>&nums ,int k,int n){
+    int atmost(vector<int>&nums,int k,int n){
         map<int,int>mpp;
         int l=0;
         int r=0;
@@ -20,6 +20,5 @@ public:
     int subarraysWithKDistinct(vector<int>& nums, int k) {
         int n=nums.size();
         return atmost(nums,k,n)-atmost(nums,k-1,n);
-        
     }
 };
