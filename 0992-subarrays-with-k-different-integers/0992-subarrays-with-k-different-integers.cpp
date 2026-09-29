@@ -1,7 +1,7 @@
 class Solution {
 public:
     int atmost(vector<int>&nums,int k,int n){
-        map<int,int>mpp;
+        unordered_map<int,int>mpp;
         int l=0;
         int r=0;
         int cnt=0;
