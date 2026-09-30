@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0525-contiguous-array) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0874-walking-robot-simulation) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0289-game-of-life) |
 | [0407-trapping-rain-water-ii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1020-number-of-enclaves) |
