@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0875-koko-eating-bananas) |
 | [0878-shifting-letters](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0878-shifting-letters) |
+| [0881-boats-to-save-people](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0881-boats-to-save-people) |
 | [0890-lemonade-change](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0890-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0907-koko-eating-bananas) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0986-interval-list-intersections) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0611-valid-triangle-number) |
+| [0881-boats-to-save-people](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1288-remove-covered-intervals) |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0611-valid-triangle-number) |
+| [0881-boats-to-save-people](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0881-boats-to-save-people) |
 | [0890-lemonade-change](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1502-construct-k-palindrome-strings](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1502-construct-k-palindrome-strings) |
@@ -983,4 +987,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0986-interval-list-intersections) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
