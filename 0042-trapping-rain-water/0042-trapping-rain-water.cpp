@@ -12,13 +12,14 @@ public:
         for(int i=n-2;i>=0;i--){
             right[i]=max(right[i+1],height[i+1]);
         }
-        int maxWater=0;
+        int maxwater=0;
         for(int i=0;i<n;i++){
             int curr=min(left[i],right[i])-height[i];
             if(curr>0){
-                maxWater+=curr;
+                maxwater+=curr;
             }
         }
-        return maxWater;
+        return maxwater;
+
     }
 };
