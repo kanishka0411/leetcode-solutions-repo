@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0763-partition-labels](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0763-partition-labels) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0874-walking-robot-simulation](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0904-fruit-into-baskets) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0556-next-greater-element-iii) |
 | [0611-valid-triangle-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0763-partition-labels](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0908-middle-of-the-linked-list) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0500-keyboard-row) |
 | [0556-next-greater-element-iii](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0556-next-greater-element-iii) |
 | [0657-robot-return-to-origin](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0657-robot-return-to-origin) |
+| [0763-partition-labels](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0796-rotate-string) |
 | [0878-shifting-letters](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0878-shifting-letters) |
 | [0916-decoded-string-at-index](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0916-decoded-string-at-index) |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0611-valid-triangle-number) |
+| [0763-partition-labels](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0881-boats-to-save-people) |
 | [0890-lemonade-change](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0957-minimum-add-to-make-parentheses-valid) |
