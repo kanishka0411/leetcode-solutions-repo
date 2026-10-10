@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1854-maximum-population-year](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1854-maximum-population-year) |
 | [1876-map-of-highest-peak](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1876-map-of-highest-peak) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0986-interval-list-intersections) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1288-remove-covered-intervals) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1675-magnetic-force-between-two-balls) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3321-type-of-triangle](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/3321-type-of-triangle) |
@@ -605,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1502-construct-k-palindrome-strings](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1502-construct-k-palindrome-strings) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1903-largest-odd-number-in-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/1975-maximum-matrix-sum) |
