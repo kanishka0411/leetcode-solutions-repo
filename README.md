@@ -957,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0184-department-highest-salary) |
 | [0511-game-play-analysis-i](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0511-game-play-analysis-i) |
