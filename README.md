@@ -963,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0184-department-highest-salary) |
+| [0196-delete-duplicate-emails](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0511-game-play-analysis-i) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0584-find-customer-referee) |
