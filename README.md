@@ -1018,4 +1018,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0881-boats-to-save-people) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/kanishka0411/leetcode-solutions-repo/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
