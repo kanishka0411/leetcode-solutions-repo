@@ -1,29 +1,28 @@
 class Solution {
 public:
-    long long solve(vector<int>&piles,int b,int h){
+    long long calc(vector<int>&piles,int h,int num){
+        long long res=0;
         int n=piles.size();
-        long long time=0;
         for(int i=0;i<n;i++){
-            time+=ceil((double)piles[i]/b);
+            res+=ceil((double)piles[i]/num);
         }
-        return time;
+        return res;
     }
     int minEatingSpeed(vector<int>& piles, int h) {
-        int n=piles.size();
         int maxi=*max_element(piles.begin(),piles.end());
         int st=1;
         int end=maxi;
-        int ans=0;
+        int ans=-1;
         while(st<=end){
             int mid=(st+end)/2;
-            long long bph=solve(piles,mid,h);
-            if(bph<=h){
+            if(calc(piles,h,mid)<=h){
                 ans=mid;
                 end=mid-1;
             }else{
                 st=mid+1;
             }
         }
+       
         return ans;
     }
 };
